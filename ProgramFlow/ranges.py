@@ -1,2 +1,2 @@
-for i in range(10, 0, -2):
+for i in range(10, -1, -1):
     print('i is now {}'.format(i))
