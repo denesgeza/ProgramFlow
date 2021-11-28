@@ -18,8 +18,3 @@ if __name__ == '__main__':
 
 def display(x,y):
     length = x
-    
-a = 'a'
-b = 'b'
-c = 4
-print(a + b + c)
