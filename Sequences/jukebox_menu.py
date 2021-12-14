@@ -17,7 +17,7 @@ while True:
 
 	print('Please choose your song: ')
 	for index, (track_number, song) in enumerate(songs_list):
-		print('{}: {}'.format(index +1, song))
+		print('{}: {}'.format(index + 1, song))
 
 	song_choice = int(input())
 	if 1 <= song_choice <= len(songs_list):

@@ -7,7 +7,7 @@ while choice != '0':
         print('1.\tLearn Python')
         print('2.\tTake a break')
         print('3.\tGet a new job')
-        print('4.\tQuit smokking')
+        print('4.\tQuit smoking')
         print('0.\tExit')
 
     choice = input()

@@ -1,4 +1,4 @@
-for index, character in enumerate('abcefghij'):
+for index, character in enumerate('abcdefghij'):
 	print(index, character)
 
 a = ['alma',

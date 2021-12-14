@@ -5,7 +5,7 @@ print('hello' + ' world')
 print("Python's strings are easy to use!")
 greeting = 'Hello'
 name = 'Bruce'
-#if we want a space, we cand add that too
+# if we want a space, we cand add that too
 # name = input("Please enter your're name!  ")
 
 print(greeting + ' ' + name + '!')
@@ -17,7 +17,7 @@ print(age)
 print(type(greeting))
 print(type(age))
 
-#age = '24 years'
-print(name + ' is ' + age + ' years old') 
+# age = '24 years'
+print(name + ' is ' + age + ' years old')
 # age is expected to be str, not int
 print(type(age))

@@ -9,7 +9,7 @@ print(c)
 
 # Example 2
 print('Unpacking a tuple')
-data = 1, 2, 46 # data is a tuple
+data = (1, 2, 46) # data is a tuple
 x, y, z = data  # x, y, z are variables
 print(x)
 print(y)

@@ -27,9 +27,6 @@ print(table[1] * table[2])
 name, length, width, price = table
 print(length * width)
 
-
-
-
 # NOTE
 # tupples are immutable, we cannot assign a value to a tupple
 # tupples are safer than list and use less memory
