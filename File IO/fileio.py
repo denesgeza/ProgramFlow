@@ -1,5 +1,5 @@
 # open a file, read-only 'r'
-jabber = open("/Users/denesgeza/Dropbox/Python/Py_MasterClass/File IO/sample.txt", 'r')
+jabber = open("sample.txt", 'r')
 #
 # # works also with relative paths, work folder
 # # jabber = open("sample.txt", 'r')
