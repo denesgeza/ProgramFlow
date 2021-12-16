@@ -24,7 +24,7 @@ jabber = open("sample.txt", 'r')
 #         print(line, end='')
 #         line = jabber.readline()
 
-# with open("c:\Users\denes\Dropbox\Python\Py_MasterClass\File IO\sample.txt", 'r') as jabber:
+# with open("c:\Users\denes\Dropbox\Python\Py_MasterClass\08. File IO\sample.txt", 'r') as jabber:
 #     lines = jabber.readlines()
 # print(lines)
 
