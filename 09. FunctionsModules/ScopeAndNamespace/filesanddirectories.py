@@ -23,4 +23,5 @@ def list_directories(s):
     else:
         print(s + " does not exist")
 
+
 list_directories('.')
