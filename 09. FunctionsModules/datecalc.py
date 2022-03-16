@@ -13,7 +13,7 @@ from time import time as my_timer
 
 import random
 
-wait_time = random.randint(1, 16)
+wait_time = random.randint(1, 15)
 time.sleep(wait_time)
 start_time = my_timer()
 input("Press enter to stop")

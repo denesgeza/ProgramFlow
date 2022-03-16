@@ -44,6 +44,20 @@ def palindrome_sentence(sentence: str) -> bool:
     return is_palindrome(string)
 
 
+def check(s1, s2):
+     
+    # the sorted strings are checked
+    if(sorted(s1)== sorted(s2)):
+        print("The strings are anagrams.")
+    else:
+        print("The strings aren't anagrams.")        
+         
+# driver code 
+s1 ="listen"
+s2 ="silent"
+check(s1, s2)
+
+
 def fibonacci(n: int) -> int:
     """Return the `n` th Fibonacci number, for positive `n`."""
     if 0 <= n <= 1:
